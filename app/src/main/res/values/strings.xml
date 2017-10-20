@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ferrofluid</string>
+    <string name="planets_json">{
+  "planets": [
+
+      "Marte", "Giove", "Saturno"
+  ]
+}</string>
+</resources>
